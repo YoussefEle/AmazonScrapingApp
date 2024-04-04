@@ -5,7 +5,7 @@ This is a simple .NET console application for scraping Amazon product informatio
 
 ## Features
 - Scrapes product title, price, and image URL from Amazon product pages.
-- Generates an Excel file with the scraped product information.
+- Generates an Excel file with the scraped product information. by another youssef to test
 
 ## Installation
 To run the application, make sure you have .NET SDK installed on your machine.
